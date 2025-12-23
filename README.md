@@ -58,7 +58,9 @@ If you use my tools and want to support more open source development, consider [
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=travka&show_icons=true&hide_border=true&theme=dark)
+<a href="https://travka.github.io/rain/">
+  <img height="180rem" src="https://travka.github.io/travka/travka/travka.png" alt="travka's stats" />
+</a>
 
 ---
 
