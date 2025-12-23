@@ -59,7 +59,7 @@ If you use my tools and want to support more open source development, consider [
 ## 📊 Stats
 
 <a href="https://travka.github.io/rain/">
-  <img height="180rem" src="https://travka.github.io/travka/travka/travka.png" alt="travka's stats" />
+  <img height="180rem" src="https://github.com/travka/travka/travka.png" alt="travka's stats" />
 </a>
 
 ---
